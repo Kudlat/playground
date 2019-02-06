@@ -2,4 +2,4 @@
 echo $0
 whoami
 pwd
-ls -l
+ls -la
